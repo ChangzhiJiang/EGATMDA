@@ -15,8 +15,8 @@
 * microbe_features: genome sequence feature matrix for microbes.
 * interaction: known adjacent matrix for drugs and microbes.
 * net1: known adjacent matrix for drugs and microbes, i.e., interaction.
-* net2: vitual adjacent matrix for drugs and microbes obtained from network Net2.
-* net3: vitual adjacent matrix for drugs and microbes obtained from network Net3.
+* net2: virtual adjacent matrix for drugs and microbes obtained from network Net2.
+* net3: virtual adjacent matrix for drugs and microbes obtained from network Net3.
 * net123: integrated adjacent matrix for drugs and microbes by fusing net1, net1 and net3.
 
 # Run steps
